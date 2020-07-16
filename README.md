@@ -10,6 +10,6 @@ A responsive HTML/CSS website.
 [ref-1]: https://happy-leakey-b98460.netlify.app/
 
 
-########################################################
-PS: The information in the website are not accurate. ###
-########################################################
+
+PS: The information in the website are not accurate.
+
